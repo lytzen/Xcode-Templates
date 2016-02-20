@@ -1,7 +1,9 @@
 # Xcode-Templates
 My Xcode Templates
 
-Got a bit tired of writing the same boiler plate, so I started this repo, as many have done before me.
+Got a bit tired of writing the same boiler plate, so I started this repo, as many have done before me. For now there is only one template, but I suspect more will follow...
+
+# Installation
 
 Simply copy the repo into:
 ```
