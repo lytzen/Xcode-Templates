@@ -8,3 +8,13 @@ Simply copy the repo into:
 ~/Library/Developer/Xcode/Templates/
 ```
 
+Or make a symlink from you git repo checkout point (that is what I always do):
+```
+cd ~/Library/Developer/Xcode/Templates/File\ Templates
+ln -s <your git repo checkout point>/Xcode-Templates/File\ Template/Custom
+```
+
+This will add a "Custom" group under iOS:
+![dialog](https://github.com/lytzen/Xcode-Templates/blob/master/NewFileDialog.png)
+
+Don't like the name "Custom"? You can just change it to something else, or loose it entirely.
