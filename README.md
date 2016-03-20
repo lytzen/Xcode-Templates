@@ -10,7 +10,7 @@ Simply copy the repo into:
 ~/Library/Developer/Xcode/Templates/
 ```
 
-Or make a symlink from you git repo checkout point (that is what I always do):
+Or make a symlink from your git repo checkout point (that is what I always do):
 ```
 cd ~/Library/Developer/Xcode/Templates/File\ Templates
 ln -s <your git repo checkout point>/Xcode-Templates/File\ Template/Custom
